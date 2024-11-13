@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptProcessor", "ReceiptProcessor\ReceiptProcessor.csproj", "{BBD2532F-9C53-4007-BF90-8668E29518F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptProcessor.Tests", "ReceiptProcessor.Tests\ReceiptProcessor.Tests.csproj", "{89DD485C-F385-4FDD-A000-E04E33981870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD2532F-9C53-4007-BF90-8668E29518F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD2532F-9C53-4007-BF90-8668E29518F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD2532F-9C53-4007-BF90-8668E29518F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD2532F-9C53-4007-BF90-8668E29518F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89DD485C-F385-4FDD-A000-E04E33981870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DD485C-F385-4FDD-A000-E04E33981870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DD485C-F385-4FDD-A000-E04E33981870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DD485C-F385-4FDD-A000-E04E33981870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
